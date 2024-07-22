@@ -1,0 +1,3 @@
+Developed a Dynamic Form Handling System: Implemented a React-based form component with state management to capture and validate user inputs for name, address, and pin fields, ensuring robust data collection.
+Implemented CRUD Functionality: Designed and integrated Create, Read, Update, and Delete (CRUD) operations within the React component, allowing users to add, edit, and remove entries dynamically, with real-time updates to the displayed data table.
+Enhanced User Experience with Conditional Logic: Utilized conditional rendering and state manipulation to provide a seamless user experience, including form validation alerts, edit mode toggling, and immediate feedback on data operations.
